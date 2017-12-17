@@ -1,0 +1,3 @@
+alias firefox="firefox > /dev/null &"
+
+alias steam="steam > /dev/null &"
